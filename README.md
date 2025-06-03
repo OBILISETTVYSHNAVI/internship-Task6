@@ -23,10 +23,11 @@ We experimented with multiple `k` values (1, 3, 5, 7) to study how the number of
 
   4. Evaluate Model using Accuracy and Confusion Matrix
 The model performance was evaluated using:
+
     - **Accuracy Score**: Percentage of correct predictions
     - **Confusion Matrix**: To analyze true positives, false positives, and misclassifications across classes
 
- 5. Visualize Decision Boundaries
+ 6. Visualize Decision Boundaries
 We plotted decision boundaries for a 2D feature space to visually understand how KNN partitions the feature space and how it changes with different `k`.
 
 
@@ -34,6 +35,7 @@ We plotted decision boundaries for a 2D feature space to visually understand how
 
   Description:
 The Iris dataset contains **150 samples** divided into **3 species of Iris**: *Setosa*, *Versicolor*, and *Virginica*. Each sample has **4 features**:
+
       - Sepal length (cm)
       - Sepal width (cm)
       - Petal length (cm)

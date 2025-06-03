@@ -42,7 +42,7 @@ The Iris dataset contains **150 samples** divided into **3 species of Iris**: *S
 For visualization purposes, only the first two features were used when plotting the decision boundary. However, the model can be extended to use all four features for better accuracy.
 
 
-🔧 Tools & Libraries Used
+ Tools & Libraries Used
 
 - **Python**
 - **Pandas** for data handling
